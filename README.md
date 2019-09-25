@@ -1,8 +1,8 @@
-# todo
+# <font color="Red">todo</font>
 todoリストアプリ作成のチュートリアル実習
-- a
-- b
-- c
+- <font color="blue">a</font>
+- <font color="green">b</font>
+- <font color="yellow">c</font>
 
 ```
 <?php
